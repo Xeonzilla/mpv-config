@@ -1,6 +1,10 @@
 # mpv-config
 Personalized config of mpv on Windows
 
+如果现在要我向其他人推荐播放器方案，只要不是坚定的开源爱好者，我会推荐`PotPlayer + LAV Filters + madVR`，这套方案成熟且行为稳定，只需要一次彻底的调校，就可以一直工作下去，省时省力；GUI、更新方式等也更符合一般人的习惯与需求。
+
+很可惜的是，我是一位还怀揣理想的实用主义者，所以我维护这样一套最小化的自用配置，企图在易用性和学习成本中取得平衡。
+
 ## Useful Links
 * ***Documentation***
   - [mpv.io](https://mpv.io/manual/master/#options)
@@ -13,4 +17,4 @@ Personalized config of mpv on Windows
 * ***Scripts***
   - [tomasklaen/uosc](https://github.com/tomasklaen/uosc)
   - [po5/thumbfast](https://github.com/po5/thumbfast)
-  - [tsl0922/mpv-menu-plugin](https://github.com/tsl0922/mpv-menu-plugin)
+  - [fbriere/sub-fonts-dir-auto](https://github.com/fbriere/mpv-scripts/blob/master/doc/sub-fonts-dir-auto.md)
